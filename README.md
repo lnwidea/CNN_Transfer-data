@@ -1,0 +1,2 @@
+# Create small project using CNN on small dataset
+This easy small project is using CNN to classify 3 classes, Car, Motorcycle, and Bicycle. The pictures for this dataset is included people to make it more challenge since it will be too easy for model to predict on unseen data, which the pictures that I gather is from Google.
